@@ -1,6 +1,6 @@
-package oop2;
+package oop3;
 
-public class Basic3 {
+public class Basic1 {
     @Override
     public String toString() {
         return super.toString();
