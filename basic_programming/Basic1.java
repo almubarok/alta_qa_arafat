@@ -9,4 +9,9 @@ public class Basic1 {
         System.out.println("qoqoqoqo");
 
     }
+
+    @Override
+    public boolean equals(Object o) {
+        return super.equals(o);
+    }
 }
