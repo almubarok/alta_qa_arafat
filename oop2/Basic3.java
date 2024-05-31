@@ -5,4 +5,9 @@ public class Basic3 {
     public String toString() {
         return super.toString();
     }
+
+    @Override // untuk override method parent
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 }
