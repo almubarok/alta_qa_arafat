@@ -15,5 +15,3 @@
 - list branch `git branch`
 - remove branch `git branch -D [nama-branch]`
 - pindah branch `git checkout [nama-branch]`
-
-[Google](www.google.com)
