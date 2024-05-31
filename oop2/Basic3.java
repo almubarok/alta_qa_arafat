@@ -6,7 +6,7 @@ public class Basic3 {
         return super.toString();
     }
 
-    @Override // untuk override method parent
+    @Override
     public boolean equals(Object obj) {
         return super.equals(obj);
     }
