@@ -14,4 +14,9 @@ public class Basic1 {
     public boolean equals(Object o) {
         return super.equals(o);
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
