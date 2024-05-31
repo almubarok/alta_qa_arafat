@@ -7,6 +7,6 @@ public class Basic1 {
         System.out.println("hihiih");
 
 
-        System.out.println("hahaha");
+        System.out.println("kakakak");
     }
 }
