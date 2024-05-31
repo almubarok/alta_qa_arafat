@@ -6,7 +6,7 @@ public class Basic1 {
 
         System.out.println("hihiih");
 
+        System.out.println("qoqoqoqo");
 
-        System.out.println("kakakak");
     }
 }
